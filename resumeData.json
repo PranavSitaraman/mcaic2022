@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name":"MCAIC 2022",
+    "description":"A Middle School computer science and programming competition hosted by the Middlesex County Academy for SMET!",
+    "image":"profilepic.jpg",
+    "bio":"The Middlesex County Academy Informatics Competition is open to all middle school students! It revolves around the theory and practicality of algorithms and programming. In this competition, we will cover various topics such as Recursion, Computer Number Systems/Operations, and Psuedocode. Each school should submit a check that contains the total cost along with the registration form. Click below to sign up!",
+    "email": "help@mcaic2022.com",
+    "phone": "(732) 452-2600",
+    "github":"http://mcaic2022.com/",
+    "address":{
+      "street":"Registration Fee: $5 (per student)",
+      "city":"Virtual, ",
+      "state":"February 26th",
+      "zip": "10:30-6:30 EST"
+    },
+    "website": "https://pranavsitaraman.github.io/",
+    "resumedownload":"https://docs.google.com/forms/d/1oRPbGCa9gzNAhMohHIvFEnX445LPgYQ7ATElg2fGoC8/edit",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://www.staggeringbeauty.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://www.staggeringbeauty.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"youtube",
+        "url":"http://www.staggeringbeauty.com/",
+        "className":"fa fa-youtube"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Important topics/concepts that will be tested",
+    "education":[
+      {
+        "school":"Hosted by the Middlesex County Academy for Science, Mathematics, and Engineering Technologies",
+        "degree":"Conducted Virtually",
+        "graduated":"Basics in Programming and Computer Science",
+        "description":"Will consist of two sections, one for short (theoretical and mathematics-based) questions and one for programming problems"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Computer Number Systems/Base Conversion",
+        "level":"80%"
+      },
+      {
+        "name":"Computer Operations",
+        "level":"60%"
+      },
+      {
+        "name":"Recursive Functions",
+        "level":"50%"
+      },
+      {
+        "name":"Reading/Writing Psuedocode",
+        "level":"90%"
+      },
+      {
+        "name":"Variables/Data Types",
+        "level":"100%"
+      },
+      {
+        "name":"Language Syntax",
+        "level":"40%"
+      },
+      {
+        "name":"Conditionals/Loops",
+        "level":"70%"
+      },
+      {
+        "name":"Data Structures (Arrays, Lists)",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ACSL",
+        "category":"Practice computer science theory and math problems",
+        "image":"01.jpg",
+        "url":"https://www.acsl.org/"
+      },
+      {
+        "title":"HackerRank",
+        "category":"Introductory programming courses and programming problems",
+        "image":"02.jpg",
+        "url":"https://www.hackerrank.com/"
+      },
+      {
+        "title":"USACO Training",
+        "category":"Training pages with more challenge programming problems",
+        "image":"03.jpg",
+        "url":"https://train.usaco.org/"
+      },
+      {
+        "title":"Codeforces",
+        "category":"A programming forum and problem database",
+        "image":"04.jpg",
+        "url":"http://codeforces.com/"
+      }
+    ]
+  }
+}
